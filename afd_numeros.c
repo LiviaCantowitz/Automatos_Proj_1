@@ -1,3 +1,5 @@
+/* Livia Negrucci Cantowitz RA:10389419 */
+
 #include <stdio.h>
 #include <string.h>
 
